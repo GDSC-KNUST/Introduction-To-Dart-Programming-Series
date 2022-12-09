@@ -2,6 +2,7 @@
 
 ## Instructions
  - Clone the repository
- - Add day-to-day components
- - Pull
+ - Create a branch
+ - Add day-to-day components (I'm guessing each person making another version of a template)
+ - Pull request
  - An Owner will review and merge
