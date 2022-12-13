@@ -7,6 +7,13 @@ void main() {
   String city = "Kumasi";
   String notRawString = 'Randy\n John\n Stephen';
 
+
+  // using variables and expressions in a string
+  var bio = "My name is ${name} and I live in $city.";
+  var answer = "The answer to 55 divided by 5 is ${55 / 5}.";
+  print(bio);
+  print(answer);
+
   
   // raw strings
   var aRawString = r'Who lives in a \npineapple under the sea?';
