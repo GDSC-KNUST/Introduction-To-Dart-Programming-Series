@@ -17,7 +17,7 @@ void main() {
 
   switch (10 - 4){
     case 4:
-      print("The answer is 4")
+      print("The answer is 4");
       break;
     case 5:
       print("The answer is 5");
