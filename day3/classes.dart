@@ -1,5 +1,3 @@
-/// OBJECTIVES
-// Classes
 
 void main() {
   Student student2 = Student(858890, 'winfred');
